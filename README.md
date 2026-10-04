@@ -2,7 +2,7 @@
 
 # Hi there👋!, I'm Muhammad Muflih Farhan 
 
-### Informatics Graduate · Web Developer · Software Developer
+### Informatics Engineering Graduate · Web Developer · Software Developer
 
 <p align="center">
   <a href="mailto:muhammadmuflihfarhan@gmail.com">
@@ -30,7 +30,7 @@
 
 ## 👋 About Me
 
-Hello! I'm an Informatics graduate from Universitas Brawijaya (Cum Laude, GPA: 3.75/4.00) dedicated to building robust and scalable software. I specialize in full-stack web development and am actively expanding my skill set into machine learning and computer vision to build smarter applications.
+Hello! I'm an Informatics Engineering graduate from Universitas Brawijaya (Cum Laude, GPA: 3.75/4.00) dedicated to building robust and scalable software. I specialize in full-stack web development and am actively expanding my skill set into machine learning and computer vision to build smarter applications.
 
 - 🛠️ **Tech Stack:** PHP (Laravel, CodeIgniter), JavaScript (React.js), Python, MySQL, PostgreSQL
 - 🔭 **Currently working on:** A real-time automated safety monitoring system using YOLO object detection and a REST API backend
